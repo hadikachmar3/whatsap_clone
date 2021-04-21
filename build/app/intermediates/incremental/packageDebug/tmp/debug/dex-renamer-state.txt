@@ -1,0 +1,4 @@
+#Fri Apr 16 05:11:47 EEST 2021
+base.0=C\:\\Users\\HadiK3\\Downloads\\Education app pics\\sopheman\\app.mobile.whatapp-clone-app-ui-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
